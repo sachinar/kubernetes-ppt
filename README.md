@@ -1,1 +1,1 @@
-#This is kubernetes presentation ppt.
+This is kubernetes presentation ppt.
